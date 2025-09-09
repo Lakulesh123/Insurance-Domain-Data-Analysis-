@@ -89,7 +89,7 @@ Education (Pie)
 
 Education & Marital Status (Heat Matrix)
 
-📸 Dashboard Snapshot:
+📸 Dashboard Snapshot: https://github.com/Lakulesh123/Insurance-Domain-Data-Analysis-/blob/main/Insurance%20Domain.png
 
 🔮 Suggestions for Improvement
 
